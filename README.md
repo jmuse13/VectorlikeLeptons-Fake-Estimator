@@ -5,7 +5,7 @@
 * ROOT 6.14 or higher
 
 ## Quick Start
-Instructions for building and running:
+Instructions for building and running on lxplus (CERN):
 ```
 setupATLAS && lsetup cmake && lsetup root
 mkdir build && cd build
